@@ -1,24 +1,15 @@
 Term_Extract by Marcel Leschnik
 Article Adjective* Noun
-zum GNU-Betriebssystem
 Der Name
 ein rekursives Akronym
-nicht wird
-im Jahr
 ein Betriebssystem
 die Freiheit
-zu RMS
 der primäre Ziel
 ein unixoides System
-Nicht %
-nicht %
-frei Name
+Der Name
 des Systems
 ein rekursives Akronym
-Nicht Art
-zu GNU
-im Gegensatz
-zur Verfügung
+eine Art
 dem GNU
 die Beziehung
 dem Betriebssystemkern
@@ -26,23 +17,19 @@ Die GNU-Pakete
 ein funktionierendes GNU-System
 der Freie-Software-Gemeinschaft
 die Arbeit
-nicht Ziel
+dem Ziel
 ein System
-zu Rechnernutzern
 die größtmögliche Freiheit
 ein Betriebssystem
-zu ist
 der größeren Freie-Software-Gemeinschaft
 der Free
 eine RMS
 die FSF
-im Namen
 der GNU-Programme
-zur Klarstellung
 ein Programm
-nicht Copyright
+das Copyright
 die FSF
-zu Copyright
+das Copyright
 die FSF
 die GNU
 das Programm
@@ -51,82 +38,61 @@ die Durchsetzung
 Das endgültige Ziel
 einer Sache
 der Vergangenheit
-zu https://www.gnu.org/gnu/gnu-history.html
 des GNU-Systems
 Das Betriebssystem
 ein freies Softwaresystem
-Nicht wird
-im September
 die Ursprüngliche Ankündigung
 des GNU-Projekts
-Im März
 eine längere Fassung
 das GNU-Manifest
 Der Name
 ein rekursives Akronym
 ein vorkommendes Wort
 Das Wort
-nicht Preis
+den Preis
 einen Preis
-nicht GNU-Software
-zu Software
-zur Nutzung
+die Software
 Die Freiheit
 das Programm
 Die Freiheit
 das Programm
-zu Freunde
-zu Freiheit
+Die Freiheit
 das Programm
-zu uneingeschränkten Zugang
-zum Quellcode
 Die Freiheit
 eine verbesserte Version
-zu Aufbau
 der Gemeinschaft
-zu GNU-Software
 ein Entgelt
 den physischen Akt
 der Weitergabe
 einer Kopie
 Das Projekt
-zur Entwicklung
 des GNU-Systems
 das GNU-Projekt
 Das GNU-Projekt
-im Jahr
 eine Möglichkeit
 den zusammenarbeitenden Geist
 der Rechnerwelt
-zu Zusammenarbeit
 die Zusammenarbeit
-zu Jahr
-am Massachusetts
+die Zusammenarbeit
 einer Gruppe
 den 1980ern
 die gesamte Software
 die Zusammenarbeit
 das GNU-Projekt
 ein Betriebssystem
-nicht proprietäre Software
 der Freie-Software-Agenda
 eines freien Betriebssystems
 das Betriebssystem
-zu Gesamtkonzept
+das Gesamtkonzept
 Ein unixoides Betriebssystem
 einen Betriebssystemkern
 das Schreiben
 eines ganzen Betriebssystems
 eine große Aufgabe
-im Januar
-Im Oktober
 die Free
-zur Entwicklung
-zu hatten
 die wichtigsten Komponenten
 einer Ausnahme
 dem Betriebssystemkern
-im Jahr
 ein unixoider Betriebssystemkern
 Die Kombination
 dem kompletten GNU-System
@@ -134,34 +100,28 @@ einem vollständigen Betriebssystem
 die Hauptversion
 eine modifizierte Variante
 das GNU-Projekt
-nicht Kern-Betriebssystem
+das Kern-Betriebssystem
 eine breite Softwareauswahl
 das Free
 ein Verzeichnis
 eine grafische Arbeitsumgebung
 die Nutzung
 des GNU-Systems
-zu möchten
 Eine Menge
 das Patentsystem
 Das ultimative Ziel
 die Rechnernutzer
-zu https://www.gnu.org/gnu/thegnuproject.html
 das Projekt
 Die englische Originalausgabe
 dem Buch
 ein Anhänger
-bei Anschauungen
+die Anschauungen
 der Freie-Software-Bewegung
-nicht würden
 den Aufsatz
 Die erste Gemeinschaft
-am Artificial
 des Massachusetts
-zu wurde
 einer Software-teilenden Gemeinschaft
 Die gemeinsame Nutzung
-nicht besondere Gemeinschaft
 der Austausch
 das Kochen
 die AI
@@ -173,9 +133,6 @@ den Digital
 der großen Rechner
 ein angestellter Systemhacker
 des AI
-zu nannten
-nicht Freie Software
-nicht war
 einer anderen Universität
 einer Firma
 ein Programm
@@ -187,74 +144,56 @@ Die Situation
 der 80er Jahre
 die PDP-10-Serie
 den 60ern
-nicht größere Adressräume
 den 80ern
-im ITS
 Die Hacker-Gemeinschaft
 des AI
-Im Jahr
 das ausgegliederte Unternehmen
 dem AI
 die entvölkerte Gemeinschaft
-zu Buch
+das Buch
 ein klares Bild
 das AI
 einen neuen PDP-10
-zu modernen Rechner
+Die modernen Rechner
 der VAX
-der hatten
+der eigene Betriebssysteme
 eine Vertraulichkeitsvereinbarung
 eine ausführbare Kopie
-zu bedeutete
 der erste Schritt
-zur Benutzung
 eines Rechners
-zu Nächsten
-nicht zusammenarbeitende Gemeinschaft
+Eine zusammenarbeitende Gemeinschaft
 Die Vorschrift
 ein Softwarepirat
 Die Idee
 das proprietäre Software-Sozialsystem
 das System
-nicht Software
-zu ist
 ein System
 die Allgemeinheit
-zu Nutzer
-zu Leserinnen
 das proprietäre Software-Sozialsystem
 den proprietären Softwareunternehmen
-zu gäbe
 einen Blickwinkel
 Die eigentliche Botschaft
 die unausgesprochene Annahme
 die Öffentlichkeit
-zu Betrachten
 Eine Annahme
 ein unbestreitbares Recht
 ein natürliches Recht
 die Öffentlichkeit
 die US-Verfassung
-ab ist
 ein Staat
 das natürliche Recht
-zu eingrenzt
 Eine weitere Annahme
-nicht sollten
 eine Gesellschaft
 Eine dritte Annahme
 ein Programm
 die andere Aufgabe
-zu Unternehmen
-nicht Macht
+einem Unternehmen
+die Macht
 die Benutzer
 des Programms
 die Freie-Software-Bewegung
 eine Menge
-zu Annahmen
-zu Probleme
 des gesunden Menschenverstandes
-zu ist
 die Grundlage
 der Gesellschaft
 den Rahmen
@@ -265,71 +204,51 @@ dem Verlust
 einer moralischen Entscheidung
 Die einfachste Entscheidung
 der proprietären Softwarewelt
-zu Mithackern
-nicht würde
 den Druck
-zu hätte
 dem Schreiben
-am Ende
 des Mauerbauens
-zu Gefühl
-zu Welt
+das Gefühl
+die Welt
 einem schlimmeren Ort
-zu hatte
-am empfangenden Ende
 einer Vertraulichkeitsvereinbarung
-zu weigerte
 dem MIT
 den Quellcode
 das Steuerprogramm
-zu Mangel
+der Mangel
 den Gebrauch
 des Druckers
-nicht Vertraulichkeitsvereinbarungen
-zu konnte
-nicht andere Alternative
+Eine andere Alternative
 der Rechnerwelt
 den Rücken
-nicht wäre
-nicht Spaltung
+der Spaltung
 einem Weg
 ein Programmierer
 ein Programm
 eine Gemeinschaft
-zu Antwort
+Die Antwort
 ein Betriebssystem
 die entscheidende Software
 einen Rechner
-zu Betriebssystem
+einem Betriebssystem
 den Rechner
-nicht freien Betriebssystem
+einem freien Betriebssystem
 eine Gemeinschaft
 der Lage
 einen Rechner
-zu verschwörerische Weise
-zu Freunde
-zu Betriebssystementwickler
 die richtigen Kenntnisse
 den Erfolg
-nicht konnte
-zu entschied
 das System
-zu wäre
 Der Name
 ein rekursives Akronym
-nicht wird
 Ein Betriebssystem
-nicht Betriebssystemkern
+einen Betriebssystemkern
 den 1970ern
 Das GNU-Betriebssystem
-nicht bin
-nicht Entschluss
+Der Entschluss
 dem GNU-Projekt
-zu beruhte
 einem ähnlichen Geist
 Der Begriff
 dem Preis
-zu geht
 die Freie-Software-Definition
 Ein Programm
 einem besonderen Benutzer
@@ -338,159 +257,120 @@ das Programm
 die Freiheit
 das Programm
 der Praxis
-zum Quellcode
 die Freiheit
 eine Gebühr
 die Freiheit
-zu Gemeinschaft
-nicht Preis
+die Gemeinschaft
+den Preis
 dem Verkauf
 die Freiheit
-zu Sammlungen
 die Gemeinschaft
 der Verkauf
 ein wichtiger Weg
 die Freie-Software-Entwicklung
-zu ist
 ein Programm
-nicht kann
 der Mehrdeutigkeit
 einen besseren Begriff
 Die englische Sprache
 ein einfaches Wort
 ein Wort
-am kommt
 die falsche Bedeutung
 einen anderen Nachteil
 das GNU-System
 Die Entwicklung
 eines ganzen Systems
 ein großes Projekt
-zu beschloss
-zu war
-am Anfang
-zu Jahre
-zu anderes Fenstersystem
-zu anderer Entscheidungen
+ein anderes Fenstersystem
 das GNU-System
-nicht Gleiche
+das Gleiche
 die Sammlung
 Das GNU-System
-nicht GNU-Software
-die können
+die freie Software
 Der Anfang
 des Projekts
-Im Januar
-am MIT
-zu MIT
-zu war
-nicht Lage
+Das MIT
+der Lage
 den Vertrieb
 das MIT
 die Arbeit
 die Arbeit
 ein proprietäres Softwarepaket
-nicht Absicht
+die Absicht
 eine Menge
-zu eigentlichen Zweck
+den eigentlichen Zweck
 das Schaffen
 einer neuen Software
 der damalige Leiter
 des MIT
 ein Einrichtung
 des Labors
-zu ersten Schritte
+Die ersten Schritte
 des GNU-Projekts
-vom Free
 das niederländische Wort
 einem v
-an war
 ein Compiler
-zu Zielplattformen
-zu unterstützten
 dem Autor
 das Programm
-an Universität
-nicht Compiler
+die Universität
+der Compiler
 das GNU-Projekt
 ein mehrsprachiger Compiler
 der Hoffnung
-nicht ganzen Compiler
-zu erhielt
+den ganzen Compiler
 den Quellcode
 des Pastel
 einem plattformübergreifenden Compiler
-am Lawrence
-nicht erweiterte Version
+eine erweiterte Version
 ein C-Frontend
-hinzu begann
 die Portierung
 den Motorola
 der Compiler
 das verfügbare Unix-System
-heraus Pastel Compiler
+der Pastel Compiler
 die gesamte Eingabedatei
 einen Syntaxbaum
 den gesamten Syntaxbaum
 eine Kette
 die ganze Ausgabedatei
 einen neuen Compiler
-zu neue Compiler
-bekannt Pastel
 das C-Frontend
-zu war
 die Arbeit
-im September
-zu ermöglichte
 das weitere Schreiben
-zu Interesse
 die Verwendung
-zu hatte
-zu Frage
+die Frage
 der Vertrieb
 einem anonymen FTP-Server
 des MIT
-mit edu
-zur wichtigsten FTP-Vertriebsseite
 ein Jahre
 den Namen
 die Frage
 einen Freund
-im Netz
 eine Kopie
 dem ursprünglichen PDP-10
 ein Magnetband
 einem adressierten Rückumschlag
-zurück hatte
-zu kündigte
-an Gebühr
+eine Gebühr
 ein Magnetband
-zu Weise
 einen geschäftlichen Vertrieb
 dem Vorläufer
 der Unternehmen
 die ganze GNU
 ein Programm
-frei Programm
+ein Programm
 die Hände
 des Autors
-nicht jedermann
 eine Kopie
-nicht Urheberrecht
+dem Urheberrecht
 eine proprietäre Version
 einem Copyright
 Das paradigmatische Beispiel
 das X11
-Am MIT
 einer freizügigen Lizenz
-hinzu Vertraulichkeitsvereinbarung
+einer Vertraulichkeitsvereinbarung
 Die Entwickler
-nicht Problem
-nicht Freiheit
-nicht Freiheit
+ein Problem
 einer paradoxen Situation
 das Maß
-zu verschiedene Antworten
 die Frage
 das Programm
 den Vertriebsbedingungen
@@ -499,40 +379,31 @@ der Freiheit
 des durchschnittlichen X11-Benutzer
 Die X11-Benutzer
 die proprietären Versionen
-aus unfreien Unix-Systemen
-nicht freie Version
+die freie Version
 die GNU
 Das Ziel
 den Benutzern
-zu mussten
 Die Methode
 das Urheberrecht
 des üblichen Zwecks
-an Mittel
-zur Beschränkung
+einem Mittel
 eines Programms
 einem Mittel
 das Programm
 Der Kerngedanke
 die Berechtigung
-zu Programm
-zu Berechtigung
+das Programm
+die Berechtigung
 die Freie Software
 eine Kopie
 ein effektives Copyleft
 das abgeleitete Werk
 das Copyleft
-zu können
-nicht werden
 des Programms
-zu Anforderung
+Die Anforderung
 Die Unternehmen
-zu Änderungen
-im Vergleich
 dem großen Umfang
-nicht gemachte Änderungen
 den Nutzern
-zu wäre
 die Vorteile
 Ein ähnliches Problem
 die Kombination
@@ -540,13 +411,10 @@ eines freien Programms
 eine Kombination
 dem unfreien Teil
 dem Ganzen
-zu würde
 ein Loch
 ein Schiff
-zu ist
 eine unabdingbare Anforderung
-zu Copyleft
-zu muss
+einem Copyleft
 die größere Version
 Die konkrete Umsetzung
 des Copyleft
@@ -556,25 +424,20 @@ des Copyleft
 ein einfacheres Copyleft
 die Komplexität
 der GNU
-nicht ist
 das Interesse
 der Nutzung
-am GNU-Projekt
-zu schufen
 die Free
 eine gemeinnützige Stiftung
 die Freie-Software-Förderung
 Die FSF
 das Vertriebsgeschäft
 der Emacs-Magnetbänder
-zum Magnetband
 den Verkauf
 Der größte Teil
 der Einnahmen
 der FSF
 den Verkäufen
 der Freiheit
-zu Deluxe-Distributionen
 eine ganze Softwaresammlung
 des Kunden
 die FSF
@@ -586,34 +449,27 @@ die C-Bibliothek
 die Eingabeaufforderung
 Die GNU
 einem Linux-System
-zu wurde
 einem Mitarbeiter
 der Free
 Der GNU
 einem FSF-Mitarbeiter
 die Entwicklung
-beim GNU-Projekt
-nicht Dienstprogramme
 eine Entwicklungsumgebung
 ein vollständiges Betriebssystem
 Die Freie-Software-Philosophie
 eine bestimmte Geschäftspraxis
-ab ist
-nicht Geschäft
+das Geschäft
 die Freiheit
 der Nutzer
 Der Verkauf
 eine Art
 die FSF
 einen anderen Weg
-zu fand
-im Anbieten
 der freien Software
 die Unterweisung
 einer Reihe
 der Beantwortung
-zu neuer Freie-Software-Produkte
-auf Reihe
+eine Reihe
 dem Begriff
 die Werte
 Das primäre Ziel
@@ -624,76 +480,58 @@ des Nutzers
 die bekannten Standards
 die Arbeit
 die dynamische Zuweisung
-zu Handhabung
+die Handhabung
 den Unix-Fokus
-ab entschieden
-nicht war
 das GNU-System
-zu Speichernutzung
-zu Megabyte
+die Speichernutzung
+einen Megabyte
 die Behandlung
-nicht war
 die gesamte Eingabedatei
 den Prozessorkern
-zu Ausgabe
-zu Entscheidungen
-zu Gespendete Rechner
+Ein Ausgabe
 der Ruf
 des GNU-Projekts
 das Projekt
 der einfachste Weg
 die Entwicklung
 einem Unix-System
-zu Komponenten
-dem anderen löste
-eine ethische Frage
-aus war
+dem anderen Frage
 eine Kopie
-zu Unix
 die Philosophie
 des GNU-Projekts
 die gleiche Argumentation
 der Schlussfolgerung
 ein proprietäres Paket
-zu Entwicklung
+die Entwicklung
 eines freien Ersatzes
 das proprietäre Paket
-nicht gerechtfertigtes Übel
+ein gerechtfertigtes Übel
 ein Übel
-nicht Kopien
 das Betriebssystem
 eines Rechners
-nicht ersetzten
 den Rechner
 des GNU-Projekts
 eine Liste
 der verbleibenden Lücken
-zu fehlende Teile
-zu Liste
-auf Meinung
 ein Gesamtsystem
 der GNU
 ein unwichtigen Liste
 eine kleine Benutzergruppe
 einem Betriebssystem
 der Aufgabenliste
-dabei Unix
 der Liste
 der Spiele
-nicht Unix
 ein Spektrum
-auf Benutzer
+die Benutzer
 Die GNU
 eine spezielle Art
 des Copyleft
 die Berechtigung
 der Bibliothek
-zu Ausnahme
 des Prinzips
 einem Projekt
 Die LGPL
 die C-Bibliothek
-zu ist
 eine Frage
 der Strategie
 Die C-Bibliothek
@@ -703,21 +541,17 @@ der Nutzung
 Ein System
 eine Ausnahme
 einem GNU-System
-ein ist
 die GNU
 die einzige C-Bibliothek
 Die Vertriebsbedingungen
 der GNU
 ein proprietäres Programm
 das GNU-System
-zu gibt
 einem GNU-System
-zu scheint
 das Verbieten
 der Nutzung
 des GNU-Systems
 die Entwicklung
-zu ist
 die Verwendung
 der Library
 eine gute Strategie
@@ -725,15 +559,13 @@ die C-Bibliothek
 die strategische Entscheidung
 eine Bibliothek
 einer speziellen Aufgabe
-zu GPL
+der GPL
 ein Weg
-zu Vorteil
-zu Betrachten
+einen Vorteil
 eine Bibliothek
 die Befehlszeilenbearbeitung
-zu Readline
 der gewöhnlichen GNU
-nicht Library
+der Library
 die Häufigkeit
 der Readline
 eine nützliche Anwendung
@@ -747,14 +579,11 @@ die weitere Freie-Software-Entwicklung
 Einen Juckreiz
 eines persönlichen Juckreizes
 des Entwicklers
-an passiert
 der GNU-Software
 ein freies Betriebssystem
-zu stammen
 einer Vision
 einem Plan
-nicht Impuls
-heraus wurde
+einem Impuls
 die C-Bibliothek
 ein unixartiges System
 eine C-Bibliothek
@@ -764,30 +593,22 @@ ein unixoides System
 ein Archivierungsprogramm
 die geschriebenen Programme
 den GNU
-zu entwickelten
 das Komprimierungsprogramm
-zu Gemeinschaft
+der Gemeinschaft
 der Patente
-zu begannen
 der Entwicklung
 den GNU
 eine beliebte Verschlüsselungssoftware
-zu Benutzer
-nicht Privatsphäre
 Die Personen
 die Arbeit
 die Programme
-nicht Unerwartete Entwicklungen
 des GNU-Projekts
-vor würden
 das gesamte GNU-System
-nicht Komponente
 des GNU-Systems
 einem Unix-System
 einem Unix-System
 ein komplettes GNU-System
-zu verschiedenen Versionen
-zum GNU-Projekt
+die verschiedenen Versionen
 die Fertigstellung
 eines funktionierenden Systems
 die Betreuung
@@ -797,7 +618,6 @@ das GNU-System
 Die einzige Komponente
 der Betriebssystemkern
 eine Sammlung
-zu laufen
 ein Carnegie
 der Universität
 eine Sammlung
@@ -809,35 +629,24 @@ der Entwicklung
 die Freigabe
 Ein Grund
 die Wahl
-zu schien
 der schwierigste Teil
 der Aufgabe
 Ein Systemkernprogramm
 einen Source-Level-Debugger
-zu Diagnose
 der Aufgabe
-im erwarteten
 die HURD-Server
-zu brauchte
-zu Multithread-Server
-zu haben
-zum soliden Arbeiten
-zu zog
-hin Alix
+die Multithread-Server
 Der GNU-Betriebssystemkern
-nicht HURD
 der Frau
 eine Unix-Systemadministratorin
 ein allgemeines Namensmuster
 einen Systemkern
 einem Systemkern
-zu blieb
-nicht Michael
 der Hauptentwickler
 des Systemkerns
 den Namen
 des Systemkerns
-zu Teil
+den Teil
 die Hurd-Server
 das HURD-Design
 die C-Bibliothek
@@ -846,66 +655,48 @@ die Alix-Komponente
 dem Design
 ein Freund
 den Namen
-im HURD-Quellcode
-gegenüber hatte
 die Chance
 einen benannten Systemkern
-zu Linux
-nicht produktiven Einsatz
-nicht wird
+den produktiven Einsatz
 Das fähigkeitsbasierte Konzept
 der Flexibilität
 des Konzepts
-nicht Lösungen
 ein anderer Betriebssystemkern
-Im Jahr
 einen Unix-kompatiblen Systemkern
-im Jahr
-zu Freie Software
 Die Kombination
 dem fertigen GNU-System
 einem freien Betriebssystem
 die Kombination
 eine erhebliche Aufgabe
-zu Version
+eine Version
 des GNU-Systems
 des Systems
 dem GNU-System
-nicht Praxis
+der Praxis
 das Gesamtsystem
-zu Arbeit
 eine ebensolche Erwähnung
 der Zukunft
 ein breites Spektrum
-zu bedeutet
-nicht seien
 die Zukunft
-zu erfordert
 die Art
 die Menschen
 Die folgenden Abschnitte
-zu macht
-zu Linux
-nicht haben
 die Rechner
-nicht gibt
-zu Programmierer
+Die Programmierer
 die Hardware
 Der Rest
 die Hardware
 der Spezifikationen
 eine selbstzerstörerische Politik
 eine umfangreiche Aufgabe
-zu starkes Gefühl
+ein starkes Gefühl
 eine Frage
 des Prinzips
 ein Zeit
-Ja Entschlossenheit
-zu ist
+die Entschlossenheit
 das BIOS
 ein freies BIOS
 Das Problem
-zu LibreBoot
 Eine unfreie Bibliothek
 einem freien Betriebssystem
 ein Falle
@@ -913,8 +704,7 @@ Die attraktiven Funktionen
 der Bibliothek
 der Köder
 die Falle
-zu Programm
-nicht Teil
+das Programm
 eines freien Betriebssystems
 das Programm
 ein Programm
@@ -926,20 +716,14 @@ den 80ern
 Das GNU-Projekt
 die freien Steuerelemente
 des X-Werkzeugsatzes
-zu wurde
 einen freien Ersatz
-zu Aufgabe
 die Motif-Anwendungen
 eine andere Bibliothek
 einer umfangreichen Freie-Software-Sammlung
 der KDE-Arbeitsumgebung
-zu Bibliothek
-nicht fügten
-nicht freier Software
-hinzu produzierten
+die Bibliothek
 ein System
 Die KDE-Gruppe
-zu Millionen
 der Idee
 ein Problem
 Die Situation
@@ -951,52 +735,35 @@ der Unterstützung
 den Weg
 eine ähnliche Ausstattung
 der Arbeitsumgebung
-zu hat
 die Unterstützung
 einer Vielzahl
-nicht ++
 das wichtigste Ziel
 eine kompatible Ersatzbibliothek
-zu KDE-Software
-zu November
 die Entwickler
 eine Änderung
 der Lizenz
-an Tat
-zu denke
-zum Teil
+die Tat
 die entschiedene Reaktion
 der Gemeinschaft
 das Problem
 das Qt
 die neue Lizenz
 die Nutzung
-zu Nachträgliche Anmerkung
-Im September
 der GNU
-im Grunde
 die nächste Bibliothek
 die gesamte Gemeinschaft
 die Notwendigkeit
-nicht Falle
-zu geben
-auf erzeugen
+die Falle
 ein größeres Problem
-ab Softwarepatente
 Die schlimmste Bedrohung
-der stammt
+der Softwarepatenten
 Die Patente
 das LZW-Komprimierungsverfahren
-zu wurde
 ein freies Programm
-zur Produktion
 einer Patentklage
 der Distribution
-zu kann
 ein Patent
 eine Aufgabe
-zu Methoden
-fehl kann
 ein Patent
 eine Eigenschaft
 die Benutzer
@@ -1004,113 +771,79 @@ einer langen Wartezeit
 die MP3-Patente
 die freie Software
 der Freiheit
-zu freie Software
 einen Misserfolg
 ein Patent
 die praktische Wirksamkeit
 des Bazaar-Entwicklungsmodells
 der Zuverlässigkeit
-zu dürfen
-nicht müssen
 Der größte Mangel
-nicht Software
+die Software
 der Mangel
 ein wesentlicher Bestandteil
 ein wichtiges Softwarepaket
-nicht guten Handbuch
+einem guten Handbuch
 eine große Lücke
 eine Frage
 der Freiheit
-nicht Preises
+des Preises
 Das Kriterium
 eines freien Handbuchs
 dem freier Software
-zu Weitervertrieb
 das Handbuch
 Die Berechtigung
-zur Modifikation
-Im Allgemeinen glaube
-nicht Berechtigung
-zu denke
-nicht sind
 die Berechtigung
-zu Artikel
-zu Handlungen
+die Berechtigung
 einen bestimmten Grund
 die Freiheit
-zur Modifizierung
 die Menschen
-zu Funktionen
-zu sind
 das Handbuch
 eine genaue Dokumentation
 dem modifizierten Programm
 Ein unfreies Handbuch
-nicht Aufgabe
-zu erfüllt
-nicht Bedarf
-auf sind
+die Aufgabe
+den Bedarf
 den Copyright-Hinweis
 des Originalautors
 die Vertriebsbedingungen
 die Autorenliste
-zu modifizierte Versionen
 einen Hinweis
 dem Löschen
-zu Abschnitte
 den gewissenhaften Programmierer
-nicht Handbuch
+das Handbuch
 dem modifizierten Programm
 die Freie-Software-Gemeinschaft
-nicht vollen Gebrauch
-vom Handbuch
-zu muss
 den ganzen Inhalt
 des Handbuchs
-zu Ergebnis
-zu behindern
+das Ergebnis
 die Beschränkungen
 die Gemeinschaft
 das Handbuch
-ein anderes Haben
+ein anderes Freie-Software-Entwickler
 das Bewusstsein
 die Entschlossenheit
 ein breites Spektrum
-zu hängt
-ab müssen
 Die guten Konsequenzen
 der Entwicklung
-zu kommerzielle Software
-zu Interesse
+das Interesse
 der Software
 das Bewusstsein
 der Philosophie
-zu hängt
-vom Willen
-ab feste Haltung
+eine feste Haltung
 den Gedanken
 die Gemeinschaft
 die Bemühungen
-zu übersteigen
 die Bemühungen
 die Pflichten
-zu müssen
-im Gleichgewicht
-zu wurde
 ein Teil
 der Gemeinschaft
-nicht Begriff
-zu Open-Source
-zum Ziel
+den Begriff
 die Verwechslung
-zu zulässiges Ziel
-zum Ziel
+ein zulässiges Ziel
 den Geist
 des Prinzips
-ins Abseits
-zu Freie-Software-Bewegung
+die Freie-Software-Bewegung
 das GNU-Projekt
-zu Ideologie
+eine Ideologie
 die Rhetorik
 das Potenzial
 die Ideen
@@ -1119,106 +852,73 @@ ein eindeutiges Beispiel
 das nächste Motif
 Die Unterstützung
 des Geschäfts
-zur Gemeinschaft
-zu Freiheit
 das vorherige Ungleichgewicht
 die gleiche Softwarekategorie
 Das GNU-Projekt
 den Begriff
 die Idee
-zum Ausdruck
-zu Freiheit
-nicht Technik
-nicht habe
 die Aufgaben
 das Ziel
-zu versuchte
 dem Feind
 eine andere Stadt
 eine andere Schlacht
-bereit Laufe
 der Zeit
-zu Stadt
-zu rief
-auf bin
-nicht ist
-eine Erleichterung
+der Erleichterung
 ein Regiment
 die Stellung
-zu weiß
-im Moment
 die Gefahren
 die zukünftige Freiheit
-nicht halten
-nicht Freiheit
-zu Verwendung
-im Sinne
+Die Verwendung
 eine Irreführung
 der Massenmedien
-der liebt
-zu spielerischer Klugheit
+der spielerischer Klugheit
 die Kombination
-fest bewundere
 ein einfallsreicher Bursche
 einen Brief
 den Umschlag
 das Wort
 das Vertriebskonzept
-zu entwickelte
 die GNU
 die Dokumentation
 ein Wortspiel
 dem Namen
 die übliche Shell
-Im Jahr
 Die Gemeinschaft
-nicht Auge
 eine kürzere Projektliste
-zu ursprüngliche GNU
+die ursprüngliche GNU
 die Idee
-zu Bibliotheken
-zu Lesser
-nicht nächste Bibliothek
+die Lesser
+die nächste Bibliothek
 des Autors
 den LZW-Komprimierungsalgorithmus
 des GNU-Projekts
 die ursprüngliche Ankündigung
 des GNU-Projekts
-am 27. September
 Die tatsächliche Geschichte
 des GNU-Projekts
-vom anfänglichen Vorhaben
 der Beginn
 ein unixkompatibles Softwaresystem
-Nicht kann
 ein Betriebssystemkern
-zu Editor
 ein andere Dinge
 einen Textformatierer
 einen YACC
 ein Empire-Spiel
 eine Tabellenkalkulation
 einem Unix-System
-nicht Unix
-Im Besonderen beabsichtigen
 ein absturzsicheres Dateisystem
 die Vervollständigung
 ein Lisp
 dem MIT
 dem Unix
 des ursprünglichen EMACS-Editors
-am Labor
 des MIT
 dem interaktiven Mehrbenutzersystem
 dem Lisp-Rechner-Betriebssystem
-im ITS
 ein absturzsicheres Dateisystem
 die Goldene Regel
 ein Programm
-nicht guten Gewissens
 eine Vertraulichkeits
 eine Softwarelizenzvereinbarung
-zu habe
 eine ausreichende Sammlung
 der Lage
 Ein Rechnerhersteller
@@ -1229,42 +929,33 @@ ein kompatibles Duplikat
 eines Unix-Dienstprogramms
 die Projekte
 eine verteilte Arbeit
-zu geschriebenen Teile
-nicht besondere Aufgabe
-zu ist
-nicht Schnittstellenspezifikationen
+die geschriebenen Teile
+Die Schnittstellenspezifikationen
 dem Rest
 dem Rest
 der Lage
-Voll Teilzeit
 Das Gehalt
-nicht suche
 das Wissen
 der Menschheit
 eine Möglichkeit
-zu ganzen Energien
 der Arbeit
-zu Notwendigkeit
+die Notwendigkeit
 den Lebensunterhalt
-zu Kontaktieren
-um Formulierung
+Die Formulierung
 ein Absicht
 die Berechtigung
 das GNU-System
-zu Wörter
-nicht werden
+die Wörter
 die Absicht
 Das nachstehende GNU-Manifest
 der Entwicklung
 des Betriebssystems
-zu Teil
+Ein Teil
 des Textes
 der ursprünglichen Ankündigung
-zu scheint
-am Text
-zu Zeit
+den Text
 eine andere Wortwahl
-zu GNU-System
+das GNU-System
 der %
 Das GNU-Projekt
 der Freie-Software-Bewegung
@@ -1272,122 +963,83 @@ einer Kampagne
 die Nutzer
 einen Fehler
 dem Begriff
-zu Begriff
 den ethischen Werten
 der Freie-Software-Bewegung
-nicht übereinstimmten
 einen unmoralischen Ansatz
 dem gleichen Gebiet
-zu ist
-Nicht GNU
-Nicht steht
 der Name
 das unixoide Softwaresystem
 einen Emacs-Texteditor
-zum Schreiben
 einen Quelltextdebugger
 einen Yacc-kompatiblen Parsergenerator
 einen Linker
 Ein Kommandozeileninterpreter
 Ein neuer C-Compiler
 Ein anfänglicher Systemkern
-zu Systemkern
 ein Programmentwicklung
-zu werden
 das freie System
 ein portables Common
 ein Empire-Spiel
 eine Tabellenkalkulation
-zu Unix-System
+einem Unix-System
 der Lage
-nicht Unix
 ein absturzsicheres Dateisystem
 ein Lisp-basiertes Fenstersystem
 einen Bildschirm
 die Kommunikation
-zu GNU
 der 16000-Klasse
-am leichtesten kann
 Den zusätzlichen Aufwand
-zu überlassen
-zu sprechen
 das g
-im Wort
-aus Namen
+den Namen
 die Goldene Regel
 ein Programm
 die Benutzer
-nicht weigere
 die Solidarität
-zu kann
-nicht guten Gewissens
 eine Vertraulichkeits
-im Labor
 des MIT
-nicht vorhandenen Gastfreundlichkeiten
-zu letzten Endes
-zu konnte
-nicht Institution
+einer Institution
 eine große Sammlung
 der Lage
-beim KI-Labor
 dem MIT
-zu wird
-nicht ideales System
-nicht wesentlichen Eigenschaften
-zu denke
+Die wesentlichen Eigenschaften
 die guten Eigenschaften
-zu Unix
-zu wird
-nicht Jedermanm
-zu Distributor
+ein Unix
+der Jedermanm
 die Weitergabe
-zu D.
-nicht möchte
 der Kommerzialisierung
 die Möglichkeit
-zu zwingt
-im allgemeinen Gegner
-zu fundamentale Akt
+Der fundamentale Akt
 der Freundschaft
-im wesentlichen
-zu Käufer
+Der Käufer
 die Wahl
 das Gesetz
 eine schwere Entscheidung
 eine Möglichkeit
-zu Arbeit
+die Arbeit
 das Gesetz
-zu Teilen
 ein Gefühl
 der Harmonie
 die Hälfte
 der Programmierer
 ein entscheidendes Glücksgefühl
-nicht kann
 die Hilfe
 der allgemeinen Aufgabenliste
 der Hilfe
 Ein Leitfaden
-zur Unterstützung
 des Betriebssystems
 einen Rechner
-zur Verfügung
 Die Rechner
 einer Wohnung
 die Projekte
 eine verteilte Arbeit
-zu geschriebenen Teile
-nicht besondere Aufgabe
-zu ist
-nicht komplettes Unix-System
+die geschriebenen Teile
+Ein komplettes Unix-System
 Die Schnittstellenspezifikationen
 einen kompatiblen Ersatz
 ein einzelnes Unix-Dienstprogramm
 des Originals
 einem Unix-System
 ein unerwartete Probleme
-zu sollte
 das Zusammensetzen
 eine durchführbare Aufgabe
 der Systemkern
@@ -1396,54 +1048,41 @@ einer kleinen Gruppe
 die Lage
 ein Personen
 Die Gehälter
-nicht Standard
+dem Standard
 das Bilden
-zu betrachte
 einen Weg
-zu gesamte Energie
 der Arbeit
-zu Notwendigkeit
-zu Rechnerbenutzer
+der Notwendigkeit
 der Lage
-zu Luft
 den Preis
 eine Unix-Lizenz
 den Stand
 der Technik
 Der komplette Quelltext
 des Systems
-im System
 die Freiheit
 einen Programmierer
 eine Firma
 Die Benutzer
-nicht Gnade
+der Gnade
 den Quelltext
 ein besseres Umfeld
 die Schüler
 den Code
 des Betriebssystems
-zu Harvards
 eine Richtlinie
-im System
-nicht war
-aufrecht bestimmte Programme
-nicht wurden
 der Verwaltungsaufwand
-zu Systemsoftware
-nicht Vorkehrungen
+die Systemsoftware
 die Nutzung
 eines Programms
 der Lizenzierung
-zu entstehen
 die Gesellschaft
 den schwerfälligen Mechanismus
 eine Person
 ein Polizeistaat
-zu Stellen
 eine Raumstation
-vor Luft
-zu gebührenpflichtige Gasmaske
+die Luft
+die gebührenpflichtige Gasmaske
 den ganzen Tag
 die ganze Nacht
 die Berechnung
@@ -1451,96 +1090,63 @@ der Luft
 die Maske
 die Luftanlage
 einer Pro-Kopf-Steuer
-zu Masken
+die Masken
 Das Kopieren
 eines Programms
 einen Programmierer
 das Atmen
 die Ziele
-nicht Unterstützung
-zu muss
 das Programm
-zu GNU
-zu sollte
 ein Unternehmen
 die GNU
-nicht Softwarehändler
-nicht Personen
+einem Softwarehändler
 der Händler
-zu ist
 der einzige Weg
-zu können
-zu sind
-nicht Einzelnen
 des hohen Preises
 der Quelltexte
 die Unternehmen
-zur Verfügung
-nicht Vertriebsbedingungen
-nicht Probleme
+den Vertriebsbedingungen
 der Welt
-nicht Dienstleistungen
 ein Produkt
-zu werden
 die Dienstleistung
-zu Produkt
+das Produkt
 Die Dienstleistungsunternehmen
-nicht bestimmtes Zwischenzeit
+ein bestimmtes Zwischenzeit
 die Dienstleistung
-nicht benötigen
 der Lage
 das Programm
-zu Dienstleistung
-zu Werbung
-nicht Menschen
+die Dienstleistung
 das Programm
-zu bringt
 ein Programm
-zu kann
-zu mag
 ein Unternehmen
 die Dienstleistung
 eine Gebühr
-zu Werbung
-zu Weise
 die Nutzer
 der Werbung
-nicht war
-zu wollen
 die Befürworter
 der freien Marktwirtschaft
-nicht freien Markt
+den freien Markt
 ein proprietäres Betriebssystem
 einen Wettbewerbsvorteil
-zu GNU
 dem Wettbewerb
-nicht werden
-vom Verkauf
 eines Betriebssystems
-nicht ist
 das teure Geschäft
-zu Betriebssysteme
-zu würde
 die Entwicklung
 die Kosten
-zu Verdienen
-nicht Belohnung
+eine Belohnung
 eine Belohnung
 ein sozialer Beitrag
 die Gesellschaft
 die Freiheit
 die Resultate
-zu Programmierer
 eine Belohnung
 das Schreiben
 die Nutzung
 ein Programmierer
-nicht Belohnung
-zu Einkommen
-zu wird
+eine Belohnung
 Die Zeit
 einer Form
-zu Gebrauch
+den Gebrauch
 eines Programms
 die Beschränkungen
 die Häufigkeit
@@ -1554,49 +1160,30 @@ eine bewusste Entscheidung
 die schädlichen Auswirkungen
 Der Grund
 ein guter Bürger
-zu ist
 die gegenseitige Destruktivität
 die Kantische Ethik
 die Goldene Regel
 die enstehenden Konsequenzen
-nicht bin
-zu verhält
 der Wunsch
 die eigene Kreativität
-zu rechtfertigt
-nicht Welt
-im allgemeinen Teil
-zu Werden
-nicht könnte
+die Welt
+einem Teil
 ein Programmierer
-zu könnten
-nicht Straße
-zu Grimassen
-zu sind
-nicht Leben
+Die Straße
 der Straße
-zu Grimassen
 die falsche Antwort
 die implizite Annahme
 des Fragestellers
 Der wahre Grund
-nicht ist
-zu Eingeschränktes Kopieren
-nicht einzige Grundlage
+die einzige Grundlage
 die üblichste Basis
-am Geld
 das Softwaregeschäft
-zur Zeit
-zu wird
 das Programmieren
-nicht ist
 die Änderung
-im allgemeinen VerkäuferInnen
 die Gehälter
 die gleichen Gehälter
-nicht Praxis
-nicht Recht
-zu Ideen
+der Praxis
+das Recht
 Die Kontrolle
 die Verwendung
 die Kontrolle
@@ -1604,19 +1191,14 @@ das Leben
 d. R.
 den Menschen
 das Leben
-zu Personen
 die Frage
 der Rechte
-am geistigen Eigentum
-z. B.
 Die Regierung
-am geistigen Eigentum
 das Patentsystem
-zu Details
-zu Zweck
+die Details
+Der Zweck
 die Gesellschaft
-nicht Erfindern
-zu Zeit
+den Erfindern
 die Lebensdauer
 ein Patent
 der Geschwindigkeit
@@ -1625,92 +1207,70 @@ ein Thema
 die Kosten
 eines Lizenzvertrages
 den Produktionskosten
-nicht behindern
 die Einzelpersonen
-nicht Idee
+Die Idee
 des Urheberrechts
-nicht Autoren
 der einzige Weg
 Das Copyright-System
-zur Förderung
 der Urheberschaft
 dem Gebiet
 einer Druckerpresse
 die Leser
-nicht geistigen Eigentumsrechte
 der Gesellschaft
 einer bestimmten Situation
 die Gewährung
 der Handlung
 einer Person
-zu Fall
+Der Fall
 Die Tatsache
 der einfachste Weg
 ein Programm
-zu Mitmenschen
-zum Nächsten
+einem Mitmenschen
 die Tatsache
 ein Programm
 die Tatsache
 ein Programm
 eine Situation
-zu Person
+eine Person
 ein Urheberrecht
 der Gesellschaft
 eine Situation
 eine Person
 das Recht
-zu Paradigma
+Das Paradigma
 ein Wettrennen
 den Sieger
-zu Kapitalismus
 ein guter Job
 der Annahme
 die Läufer
 der Preis
-z. B.
 die Läufer
 einen Faustkampf
 den Lauf
 das moralische Äquivalent
 einem Faustkampf
-zu einzige Schiedsrichter
+der einzige Schiedsrichter
 die Faustkämpfe
 einen Schuss
 den Versuch
 eines Angriffs
-nicht werden
 eine unwiderstehliche Anziehungskraft
-aus Regel
-am sind
-am Ball
-zu ist
+der Regel
 der Situation
-nicht Bezahlung
-nicht richtige Frage
+Die Bezahlung
+Die richtige Frage
 einem reduzierten Ansporn
 der besten Programmierer
-im KI-Labor
-zum Beispiel
 eine Belohnung
 die Chance
-zu Tatsachen
+Die Tatsachen
 eine Chance
-zu werden
-im Wettbewerb
-aus müssen
-nicht zahlende sind
 die Programmierer
-zu müssen
-nicht Millionen
 die Verteidigung
-nicht Cent
+einen Cent
 den Verkauf
-zu Weg
 das meiste Geld
-nicht einzige Weg
-zu ist
-zu möchte
+der einzige Weg
 Ein Rechnerhersteller
 einen neuen Rechner
 die Portierung
@@ -1720,7 +1280,7 @@ der Schulung
 der Benutzerhilfe
 der Wartung
 Die Gruppe
-zu Mitglieder
+die Mitglieder
 der Entwicklung
 einer Softwaresteuer
 einen Rechner
@@ -1736,10 +1296,7 @@ der Softwaresteuer
 das Projekt
 der Hoffnung
 die fertigen Ergebnisse
-zu kann
 eine Gutschrift
-zur gesamten Steuerschuld
-zu hatte
 Der gesamte Steuersatz
 ein Votum
 der Steuerzahler
@@ -1751,11 +1308,10 @@ der Unterstützung
 ein Schritt
 einer Welt
 den Lebensunterhalt
-zu Menschen
-zu Freude
+Die Menschen
+die Freude
 der Programmierung
 den geforderten Wochenstunden
-zu haben
 die Menge
 die Gesellschaft
 ein kleiner Teil
@@ -1763,116 +1319,86 @@ Die Hauptursachen
 die Konkurrenz
 dem Gebiet
 der Softwareentwicklung
-zu Arbeit
 ein Absicht
 die Erlaubnis
 das GNU-System
-zu geht
-nicht Formulierung
-hervor interpretiert
+der Formulierung
 den Worten
 die Absicht
 das Manifest
 die Möglichkeit
 der Erbringung
-zur Gewinnerzielung
-im Sinne
-im Sinne
-zu Freie Software
 die Freiheit
-zu werden
 die Software
-zu ist
 eine Kopie
 die Freiheit
-beim Gebrauch
-zu hat
 Der Ausdruck
 ein weiteres Indiz
-nicht Frage
-zu Freie Software
-Zu vermeidende Wörter
+die Frage
 eine weitere Stelle
 den verschiedenen Bedeutungen
-zu Aussage
-nicht kann
+Die Aussage
 das Internet
 die falsche Idee
 eine wohltätige Einrichtung
-nicht Unternehmen
+ein Unternehmen
 die Free
 den grössten Teil
 der Vertriebsdienstleistung
 der FSF
-zu Gruppe
+Eine Gruppe
 die Wartung
 des GNU
-zu glaube
-zu proprietäre Software
 der häufigste Grund
-zu scheint
 das häufigste Geschäftsmodell
 die Entwicklung
-nicht Möglichkeit
+die Möglichkeit
 das Unternehmen
 die eigentliche Arbeit
-zu benutzerdefinierte Softwaregeschäft
+Das benutzerdefinierte Softwaregeschäft
 einer Freie-Software-Welt
 der freien Software
-nicht bezahlten Programmierer
+die bezahlten Programmierer
 einer Welt
 der freien Software
 den 1980ern
-nicht war
 dem Problem
-zu Begriff
 die Tatsache
 einen Topf
 die unterschiedliche Probleme
-an Begriff
-nicht Annahme
+den Begriff
+der Annahme
 ein schlüssiges Problem
-zu werden
 Eine verführerische Illusion
-zu Begriff
+Der Begriff
 der Regel
 den Quellcode
-nicht unfreie Software
-Zu vermeidende Wörter
 der Freie-Software-Bewegung
 dem GNU-Projekt
 einen langen Weg
-Im Jahr
 einen modernen Rechner
-zu proprietäres Betriebssystem
-zu beschränkenden Lizenz
+ein proprietäres Betriebssystem
+einer beschränkenden Lizenz
 der Lage
 die Software
 den eigenen Bedürfnissen
 Die Eigentümer
 der Software
-zu GNU-Projekt
-zu erste Ziel
+Das GNU-Projekt
+Das erste Ziel
 ein unixkompatibles Betriebssystem
-Nicht %
-nicht %
 das gesamte System
-zu Name
+Der Name
 des Systems
 ein rekursives Akronym
-Nicht Not
 eine Art
-zum wird
-im Gegensatz
 der Arbeit
-zu wurden
 der Free
-die waren
-die wurden
+die Freiwillige
+die Berufsstands
 das Potenzial
 des Rechnernetzes
 die gesamte Menschheit
-zu Jahr
 die letzte Komponente
 eines unixartigen Systems
 der Linus
@@ -1883,13 +1409,8 @@ der Version
 der grafischen Benutzeroberfläche
 die Bedienung
 des GNU
-nicht Welt
-nicht können
-nicht Freiheit
-zu ist
-zu dauerte
+Die Welt
 die Freiheit
-zu ist
 das Betriebssystem
 der Anfang
 die gesamte Palette
@@ -1900,82 +1421,46 @@ der Rechnernutzer
 die Entwicklungen
 das GNU
 einer Mai
-nicht ist
-Im Mai
 ein freies Betriebssystem
-zu konnte
-nicht unixoiden System
+einem unixoiden System
 dem MIT
 Die englischsprachigen Bedeutungen
-nicht Aussage
-zu Nützliche
 eine schöne Stange
-nicht vermute
-nicht würde
 die Alternative
 ein Gratisexemplar
-zu Nutzer
 die Software
 der Grund
-im Einklang
 dem Gebiet
 der Informatik
 die Form
 der wissenschaftlichen Zusammenarbeit
 das Prinzip
-zu Ist
 den Haufen
-zu Sollten
-zu Verkauf
 ein Meinungsklima
 die Universität
-nicht anfängt
-zu könnten
-zu Fangen
 dem gemeinsamen Austauschen
-an https://www.gnu.org/gnu/yes-give-it-away.html
-Also Richard
 einer Mai
-nicht ist
-Im Mai
 ein freies Betriebssystem
-zu unixoides System
+ein unixoides System
 dem MIT
-nicht haben
 Die englischsprachigen Bedeutungen
-nicht Aussage
 der wichtigen Beweggründe
 die Möglichkeit
-zu ermöglicht
-zu fördert
 den Bemühungen
-nicht hat
 ein Recht
-zu sollten
-nicht Zwischenzeit
+der Zwischenzeit
 das Weggeben
-nicht Masochisten
 dem Schluss
-nicht wäre
 Ein zentrale Betreuung
-zu Nutzer
-zu habe
 dem Teilen
-zu EMACS
-zur EMACS-Entwicklung
 die zentrale Betreuung
 einem nicht-manipulativen Geist
-zu reagierten
-zu Voraus
-im Ergebnis
-zu https://www.gnu.org/gnu/linux-and-gnu.html
 Das GNU-System
 der Name
 eine modifizierte Version
 des GNU-Systems
-aus befremdende Wendung
+eine befremdende Wendung
 der Ereignisse
-nicht Grunde
 das GNU-System
 das GNU-Projekt
 ein Linux
@@ -1983,14 +1468,12 @@ ein Teil
 des Systems
 der Betriebssystemkern
 das Programm
-im System
 die Ressourcen
 des Systems
 die anderen Programme
 Der Systemkern
 ein wesentlicher Bestandteil
 eines Betriebssystems
-im Kontext
 einem kompletten Betriebssystem
 dem GNU-Betriebssystem
 das ganze System
@@ -1998,31 +1481,25 @@ die sogenannten Linux
 den Unterschied
 dem Systemkern
 dem Gesamtsystem
-nicht mehrdeutige Gebrauch
+Der mehrdeutige Gebrauch
 des Namens
-nicht Verständnis
-bei Benutzer
 das gesamte Betriebssystem
 ein Hilfe
 ein Systemkern
-im Allgemeinen Linux
 eine Geschichte
-vor Benennung
+die Benennung
 des Gesamtsystems
 dem Systemkern
 das Schreiben
 dem Systemkern
-zu fanden
-heraus besonderen Grund
 ein unixoides System
 das unvollständige GNU-System
 Die verfügbare Software
 einem Komplettsystem
-bei GNU-Projekt
-Im GNU-Manifest
+das GNU-Projekt
 das Ziel
 ein freies System
-zu ursprüngliche Ankündigung
+Die ursprüngliche Ankündigung
 des GNU-Projekts
 der ursprünglichen Pläne
 das GNU-System
@@ -2030,92 +1507,67 @@ Die Freie-Software-Projekte
 das Ziel
 ein bestimmtes Programm
 eine bestimmte Aufgabe
-zu hat
 einen unixoiden Systemkern
-zu Donald
 ein Textsatzprogramm
 ein Fenstersystem
 den Beitrag
-zu stammen
 dem Versuch
 den Beitrag
 des GNU-Projekts
-zu CD-ROM-Anbieter
-heraus Linux-Distribution
+Ein CD-ROM-Anbieter
 der größte Anteil
 des gesamten Quellcodes
 der unverzichtbaren Hauptkomponenten
-ein Linux
-aus sind
 die Anteile
-im Haupt-Projektarchiv
-vor hätte
 einen Namen
 das System
 die Programme
-im System
 die entsprechende Antwort
-nicht richtige Weg
+der richtige Weg
 die Angelegenheit
-zu GNU-Projekt
-zu war
+Das GNU-Projekt
 einen C-Compiler
-zu taten
 einen Texteditor
-zu entwickelten GNU-Projekt
+einen entwickelten GNU-Projekt
 ein freies System
-zu GNU
 der freien Software
-im System
 der Grund
 ein integriertes System
-nicht Sammlung
+eine Sammlung
 das GNU-Projekt
-zu fertigten
 eine Liste
 der benötigten Programme
-an vollständiges System
-zu fanden
+ein vollständiges System
 die Liste
-zu schrieben
 die Programmierwerkzeuge
 ein Schachspiel
 ein Gesamtsystem
 der 90er
 das gesamte System
-vom Systemkern
 einem Systemkern
 Die Entwicklung
-zu ist
-zu mussten
-nicht Hurd
-im Jahr
 die letzte Lücke
-im GNU-System
 das GNU-System
 ein freies System
-zu Variante
+eine Variante
 des GNU-Systems
 das GNU
 eine wesentliche Änderung
-zu Integration
+Die Integration
 eines kompletten Systems
 einer Distribution
 eine große Aufgabe
 die Frage
 das System
 ein Problem
-nicht hatten
-nicht hatten
 die Personen
 der Natur
 der Sache
-zu GNU-Projekt
+Das GNU-Projekt
 das GNU-System
 Die Free
 die Überarbeitung
 der Linux-bedingten
-zur GNU
 die neuesten GNU
 die aktuelle Freigabe
 der Bibliothek
@@ -2127,19 +1579,15 @@ der Linux
 der GNU
 Die FSF
 Eine freie GNU
-nicht Frage
+eine Frage
 der Beseitigung
 die übliche Version
-beim Start
 des Systems
 Ein Ausgabegeräte
-im Quellcode
 die Pflege
 die Pflege
 einer freien Variante
-nicht irritieren
 die Öffentlichkeit
-nicht doppeldeutigen Gebrauch
 des Namens
 der Betriebssystemkern
 der erforderlichen Hauptkomponenten
@@ -2162,23 +1610,17 @@ des GNU-Systems
 eine Art
 eine Variante
 Die BSD-Entwickler
-am Beispiel
 des GNU-Projekts
-zu Freie Software
-zu nachdrückliche Appelle
-zu Quellcode
+der Quellcode
 das GNU-System
 Die BSD-Entwickler
 dem GNU-System
-hinzu würde
 ein Name
 der Situation
-nicht https://www.gnu.org/gnu/why-gnu-linux.html
 der Name
 Das GNU-System
 eine Historie
 des GNU
-zur Benennung
 die Wahl
 der Namen
 die Bedeutung
@@ -2188,90 +1630,62 @@ Eine Rose
 einem anderen Namen
 einen Stift
 die Menschen
-zu schreiben
-nicht sind
 eine falsche Vorstellung
 des Systems
-nicht Detail
 eine genauere Vorstellung
-Ja Menschen
 die Geschichte
-zu freie Welt
-nicht Probleme
-zur Entwicklung
-nicht drohen
-zu erkläre
+Die freie Welt
+Die Probleme
 das Betriebssystem
-zu wird
 das GNU-Projekt
-nicht Wichtigste
+das Wichtigste
 die Arbeit
-nicht sollten
 die geleistete Arbeit
 ein kluger Ratschlag
 der Situation
 die Arbeit
-zum Entspannen
-nicht Zeit
-zu Stärke
+die Zeit
+Die Stärke
 Den Namen
-zu ist
 eine Möglichkeit
-zu Ziele
-zu ist
-zu GNU
-zu gute Arbeit
-im Namen
+die Ziele
 der Begriff
 einer Philosophie
-zur Freiheit
 der Name
-zu große Herausforderung
+Eine große Herausforderung
 die Zukunft
 die unfreie Software
-im Namen
-zu Linux
-Die kennzeichnen
-die unfreien Pakete
-nicht entwickeln
+Die unfreien Pakete
 dem System
-hinzu werben
 dem Nutzer
 das Hinzufügen
-im Namen
 der Popularität
-zu Beliebtheit
 die Bewegung
-offen Ziel
-zu Beliebtheit
+das Ziel
+die Beliebtheit
 Dem GNU
 die Popularität
 die Zahl
 der Nutzer
 die Gemeinschaft
 eine gute Sache
-zu Ziel
+das Ziel
 den Augen
-zu ist
-nicht Straße
+der Straße
 die unfreie Erweiterung
 eine Bibliothek
 ein Programmierwerkzeug
 eine Falle
 einem unfreien Paket
-nicht Teil
 eines freien Systems
 der Vergangenheit
-im großen Maße
 die Falle
 ein Problem
-nicht wurde
 eine ähnliche Wirkung
 die korrigierte Java-Falle
 die Zukunft
 ein Mosaik
 eine Menge
-nicht aufpassen
 die unfreie Software
 die Nutzer
 die Freigabe
@@ -2279,32 +1693,21 @@ eine Frage
 der Programmierung
 die Lösung
 die Entwicklungsressourcen
-zu sehen
-zu Gesetze
 die Freie Software
 das Digital
 die Freie-Software-Entwicklung
 dem Betrachten
 einer DVD
 eines RealAudio-Datenstroms
-zu finden
 die patentierten Dateiformate
-zu unfreien Programme
+die unfreien Programme
 Die Bewältigung
 das Ziel
 der Freiheit
-zu können
-nicht bloße Wunsch
-zu brauchen
+der bloße Wunsch
 die Art
 die Menschen
-nicht Gemeinschaft
-vom GNU-Projekt
-aus sind
-nicht Magazine
-zum System
-hinzu andere Unternehmen
-ein Anwendungen
+Die Magazine
 Der wichtigste Ort
 dem Gedanken
 das GNU-Projekt
@@ -2312,66 +1715,48 @@ das Gefühl
 ein System
 dem GNU-Projekt
 eine direkte Beziehung
-nicht Philosophie
-überein sehen
 einen Grund
-Im Gegensatz
 die Menschen
 das GNU-Projekt
 eine indirekte Beziehung
 die GNU-Philosophie
 Das GNU-Projekt
 einem großen Hindernis
-gegenüber vorherrschende Ideologie
+die vorherrschende Ideologie
 der Grund
 ein freies GNU
 die Arbeit
 dem Spiel
 die Sache
-zu Position
-nicht Menschen
 die Aufgabe
-zu muss
 das Betriebssystem
-zu GNU
 der Name
 Das GNU-System
 Die Menschen
 das GNU-System
-zu sagen
 den Idealen
 der Freie-Software-Bewegung
-nicht Beweggrund
+Der Beweggrund
 die Entwicklung
-zu Rechner
-zu Freiheit
-zu Person
+einen Rechner
+Eine Person
 den Namen
-zum ersten Mal
-nicht verkörpert
 ein Schritt
 Der Zusammenhang
 dem Namen
 den Köpfen
 die GNU
-kennen existiert
 der Wikipedia
-im gesamten Internet
 die Ideale
 die GNU
-nicht suchen
 Die Open-Source
 die Aufmerksamkeit
 der Freiheit
 des Benutzers
-zu gibt
 eine gewisse Chance
-zu geschieht
-z. B.
 das Werk
 einer Aktion
 des GNU-Systems
-Im Laufe
 der Zeit
 die Nennung
 des Systems
@@ -2385,49 +1770,34 @@ ein Großteil
 der Diskussion
 einen praktischen Ansatz
 das System
-zu bitten
 der Sensibilisierung
 der Öffentlichkeit
 die Freie-Software-ideale
 das benutzte System
-nicht Linux
 Die Betriebssystem-Distributionen
-im Grunde
 des Betriebssystems
 der Entwicklung
-zu Ziel
 ein freies Betriebssystem
-zu wurden
-nicht Teile
 eine Vorreiterrolle
 die zentralen Komponenten
 den größten Einzelbeitrag
-zum Gesamtsystem
 Die grundlegende Vision
 Der Fairness
 die gleiche Erwähnung
 Das GNU-System
 das Projekt
-zur Historie
 der Name
 die Entwickler
 dem Betriebssystemkern
-zur Freie-Software-Gemeinschaft
-nicht Freiheit
 das Gesamtsystem
-zu weisen
 eine Rolle
 der Geschichte
-zu haben
 den Ansichten
 eine übermäßige Bedeutung
 Das System
-zu erkennt
 die Rolle
-beim Aufbau
 der Öffentlichkeit
 die praktische Bedeutung
-zu ist
 die wahre Beziehung
 Das GNU-Betriebssystem
 der Linux-Kern
@@ -2439,22 +1809,16 @@ ein Verwirrspiel
 die korrigierende Information
 Die Leute
 dem GNU-System
-nicht ist
 das Stück
 das Linux
-nicht Kombination
-an System
-zu Name
-nicht passte
-zu Problem
-zu Gewohnheit
-zu hatte
+die Kombination
+das System
+das Problem
+die Gewohnheit
 das Durcheinander
 einen großen Vorsprung
 Die Menschen
 das System
-nicht ist
-aus müsste
 Der Name
 ein falsches Bild
 des Systemursprungs
@@ -2462,12 +1826,11 @@ der Annahme
 die Systemgeschichte
 die Entwicklung
 die Idee
-zu System
+das System
 der gestellten Fragen
-dar Namen
-zu Benutzer
-zu Sollte
-Nicht Gesamtsystem
+den Namen
+den Benutzer
+das Gesamtsystem
 den Betriebssystemkern
 den Entwickler
 das Gesamtsystem
@@ -2480,52 +1843,39 @@ das Gesamtsystem
 der Systemkern
 die Mehrdeutigkeit
 das GNU
-nicht freies Betriebssystem
 den Achtzigern
 dem GNU-Projekt
 der CSRG
-vom GNU-Projekt
-zu freies Betriebssystem
-zu Linus
+ein freies Betriebssystem
 einen Vortrag
 einen unixoiden Betriebssystemkern
 der GNU
 ein freier Systemkern
 der Welt
-nicht Bedeutung
+Die Bedeutung
 einem größeren Rahmen
 einem freien Betriebssystem
-zu GNU
-nicht Gemeinschaft
+die Gemeinschaft
 die Menschen
-nicht #divide
-zu spalten
 dem GNU-Projekt
 das GNU-Betriebssystem
-zu kritisiert
-nicht mögen
 eine Antwort
-zu bringt
-nicht Schweigen
 die Gemeinschaft
-zu hoffen
 eine sekundäre Ursache
 der Spaltung
 Die größte Spaltung
 der Gemeinschaft
 die Freie Software
 eine soziale Frage
-zu proprietäre Software
 der Freie-Software-Bewegung
-nicht Namensfrage
+eine Namensfrage
 eine Frage
 die Gemeinschaft
-zu Bezeichnungen
+Die Bezeichnungen
 die Banner
 der Positionen
 das Ziel
 Die Uneinigkeit
-zum Teil
 dem Maß
 der Rolle
 des GNU-Projekt
@@ -2540,62 +1890,48 @@ den eigentlichen Ursprung
 des Systems
 ein echter Streitpunkt
 die Freiheit
-nicht wird
-nicht Unterstützt
 das GNU-Projekt
-nicht individuelle Recht
+das individuelle Recht
 das System
 einen beliebigen Namen
-zu Einzelne wählen
-Ja Tat
+der Tat
 ein Recht
 dem Betriebssystem
-zu möchte
-zu GNU-Projekt
-zu Werte
+dem GNU-Projekt
+die Werte
 der Freiheit
-zu GNU
-zu Werte
+die GNU
 das System
-ins Leben
 die Rolle
 der Entwicklung
 des Systems
 die Erwähnung
-im Namen
-nicht #everyoneknows Erfahrung
+Die Erfahrung
 des Systems
 die Rechner-nutzende
-im Allgemeinen GNU-System
+das GNU-System
 Die Artikel
 das System
 den Namen
 die Ideale
-nicht GNU-Nutzer
 Die Leute
 die Geeks
 eine falsche Vorstellung
 eine Sammlung
 ein Projekt
-zur Entwicklung
 Der typische Wortlaut
 ein verbreitetes Missverständnis
 der Entwicklung
-zu setzt
-voraus GNU
 eine Gruppe
 ein Betriebssystem
 die Rolle
 des GNU-Projekt
 einer anderen Aktivität
-zu GNU
-zu Rolle
-nicht Menschen
-vom GNU
-nicht erklären
-nicht Microsoft
+die GNU
+die Rolle
+Die Menschen
 einen verwendeten Namen
-nicht Abkürzung
+die Abkürzung
 den entwickelten Ländern
 das Windows-System
 Die Abkürzung
@@ -2603,10 +1939,8 @@ die Irre
 eine falsche Vorstellung
 das System
 Die Frage
-nicht ist
 ein Unternehmen
 ein Betriebssystem
-zur Programmierung
 ein vollständiges Betriebssystem
 eine falsche Vorstellung
 der Name
@@ -2620,14 +1954,12 @@ Das GNU-Projekt
 dem GNU-Betriebssystem
 das Projekt
 das GNU-System
-zu Neue Unix-Implementierung
 des GNU-Projekts
 das GNU-Betriebssystem
 die GNU
 der Kompiler
 das GNU-Betriebssystem
 die Menschen
-am GNU-Projekt
 das GNU-System
 der Unterschied
 einem Betriebssystem
@@ -2636,8 +1968,7 @@ Ein Betriebssystem
 den Begriff
 eine Sammlung
 den Rechner
-zu universelles Betriebssystem
-zu Aufgaben
+Ein universelles Betriebssystem
 Der Betriebssystemkern
 der Programme
 einem Betriebssystem
@@ -2647,27 +1978,22 @@ die Systemressourcen
 Der Betriebssystemkern
 das Starten
 die Dinge
-zu verwenden
 die Bezeichnung
 den Betriebssystemkern
 Die Verwendung
-zurück Verwendung
+Die Verwendung
 den Betriebssystemkern
 den Systementwurf
 die Achtziger
-zurück gleichen Zeit
 den Achtzigern
 das Unix-Betriebssystem
-zu Berkeleys
 ein unixoides Betriebssystem
 den Begriff
 die gleiche Weise
-vom Linux-Betriebssystem
 dem Sinne
 die gesamte Sammlung
 der Betriebssystemkern
 der richtige Name
-zu Teil
 der Software
 einen anderen Begriff
 die gesamte Programmsammlung
@@ -2677,19 +2003,15 @@ das Fundament
 eines Hauses
 ein Haus
 Ein Betriebssystemkern
-nicht Fundament
+das Fundament
 eines Hauses
 ein Betriebssystem
-nicht Aufbauen
+das Aufbauen
 eines Hauses
 Ein Haus
 das Fundament
-nicht wurde
 ein wesentliches Gewerk
-nicht hat
 ein Loch
-im Boden
-Im Gegensatz
 ein Betriebssystem
 die Komponenten
 die Arbeit
@@ -2699,35 +2021,26 @@ die Raumstationmodule
 der Umlaufbahn
 ein anderes Modul
 das GNU-System
-im Jahr
 der Betriebssystemkern
-nicht Gehirn
+das Gehirn
 des Systems
 Ein Rechnersystem
-nicht menschlicher Körper
+ein menschlicher Körper
 eine menschlichen Gehirns
 die Arbeit
 einem Betriebssystem
-nicht Schreiben
+das Schreiben
 des Betriebssystemkerns
-Nein Komponenten
 eine Menge
 ein Betriebssystem
-nicht kann
-im Grunde
 das GNU-System
-zur Installation
-zu Plan
 den Ereignissen
-im Jahr
 einen Versuch
 eine bessere GNU
-zu Gründer
-nicht sollte
+Der Gründer
 der Name
 einer Systemvariante
 dem GNU
-nicht war
 Der GNU
 der Arbeit
 dem GNU
@@ -2735,17 +2048,14 @@ einen erweiterten Scheme
 eine vollständige Systemverteilung
 einen wesentlichen Teil
 des GNU-Systems
-zu machten
 den letzten Schritt
 dem Namen
-zu ändert
 ein Betriebssystem
 das Gesamtsystem
 dem Betriebssystemkern
-nicht Betriebssystem
+ein Betriebssystem
 einem Systemkern
-zu #afterkernel
-zu Missbrauch
+dem Missbrauch
 des Namens
 ein Betriebssystem
 ein einheitliches Projekt
@@ -2757,7 +2067,6 @@ der Betriebssystemkern
 der so-und-so-Betriebssystemkern
 der Ausdruck
 der Linux-Betriebssystemkern
-im Sinne
 der Betriebssystemkern
 ein Betriebssystemkern
 des Missverständnisses
@@ -2766,14 +2075,10 @@ der Betriebssystemkern
 ein anderes System
 das Gefühl
 das Gefühl
-nicht Linux
 eine Basis
-im System
 das Gefühl
 Das Problem
-zu ist
 einen kürzeren Namen
-zu #long
 Eine Zeit
 den Namen
 die Worte
@@ -2781,70 +2086,42 @@ Die Reaktion
 Der kürzeste Name
 den angegebenen Gründen
 das System
-zu GNU
 Der Name
-nicht Menschen
-nicht Zusammenhang
 die Menschen
-nicht Verweis
-zu GNU
-zu könnten
-Das Problem
-zu ist
+ein Zusammenhang
+die Menschen
+ein Verweis
+die Problem
 die Mühe
-zu #long
 eine Sekunde
-zu System
-zu weiß
-nicht Sekunde
+das System
+eine Sekunde
 ein langer Begriff
-nicht Sollte
-nicht kürzeren besteht
-im Englischen
+einen kürzeren GNU
 des Widerwillens
-zu Linux
 ein sekundärer Beitrag
 das System
-zu Tatsachen
-nicht beste Lösung
+der Tatsachen
+die beste Lösung
 das System
-nicht ist
-nicht hat
 einen anderen Systemkern
-zu ist
-zu Linus
-zu schrieb
 eine wichtige Systemkomponente
 die Einführung
 der Systementwicklung
-nicht Linus
 das System
-nicht gehen
-um Beitrag
-zum System
-nicht System
-nicht GNU
-vom gleichen System
+das System
 einen Zusammenhang
 die Nutzung
-im Namen
 eines Produktes
 eine Gebühr
-zu Gebühr
-zu #trademarkfee
+die Gebühr
 das System
-zu Grunde
 einen Teil
 der Anerkennung
-zu ist
-nicht System
+das System
 die Gebühr
 den Namen
-nicht werden
-nicht andere Projekte
-zum heutigen System
 die Argumente
-nicht Anerkennung
 einem langen Namen
 dem Hauptentwickler
 des Systems
@@ -2853,79 +2130,57 @@ der Anerkennung
 Der Hauptentwickler
 das GNU-Projekt
 das System
-im Namen
 des Systems
-im Namen
 des Systems
-zu langer Name
+ein langer Name
 einem gewissen Punkt
 einen Grenze
 die Namen
 der sekundären Beiträge
-nicht Unterschiedliche Grenzwerte
 ein Name
-nicht Interesse
-nicht ganze Anerkennung
+die ganze Anerkennung
 einem sekundären Beitrag
-zu Hauptbeitrag
-zum heutigen System
-nicht Nennung
-nicht Hauptentwickler
+der Hauptbeitrag
+die Nennung
+die Hauptentwickler
 des Systems
-nicht GNU
 ein beigetragenes Programm
 eine Sammlung
 der Rahmen
 das System
 ein kleiner Anteil
 des heutigen Systems
-Im Jahr
-fest GNU-Pakete
 des offiziellen Projektarchivs
 der gNewSense
-aus würde
 die Benennung
 ein kleiner Bruchteil
 des Systems
-ein kleinerer sind
+ein kleinerer Kern
 des Systems
 das System
 die Kombination
 der Name
-zum heutigen System
-nicht sollte
-nicht Red
 eine Aktivität
 ein Betriebssystem
-vom GNU-Projekt
 das Projekt
 das GNU-System
-zu GNU
-im Namen
+Das GNU
 Ein Großteil
 des Beitrags
-zum GNU
-im Quellcode
-zu gibt
-statt GNU
 den Regeln
 der englischen Sprache
 der Konstruktion
 das Wort
 ein GNU-Paket
-zur vorhandenen Situation
-nicht Ägide
+der Ägide
 des GNU-Projekts
-zum GNU-Projekt
 die Bedeutung
 ein GNU-Paket
-nicht reden
-nicht eigenständigen GNU-Variante
+einer eigenständigen GNU-Variante
 dem Betriebssystemkern
 eine separate Variante
 die Standard-Version
 des GNU-Projekts
-nicht wäre
 eine Version
 dem Betriebssystem
 Ein Schrägstrich
@@ -2933,181 +2188,122 @@ der Hand
 Ein Ausgabe
 die Verbindung
 ein Pluszeichen
-Im Französischen ist
 ein Bindestrich
 den Hauptbeitrag
-zu Beitrag
-zum System
-nicht startete
+Der Beitrag
 die Aktivität
-ins Leben
 die unterste Ebene
 des GNU
 die höheren Ebenen
 das System
-zu ist
 den Anschein
 das Gesamtsystem
 Die Entwickler
-aus System
-nicht mögen
+das System
 Ein System
-zu impliziert
 eine Variante
 eine GNU
 das Fehler
-nicht BSD
-nicht Name
-nicht Linux
+Der Name
 die Fubar
 den gemachten Fehler
-zu Distributionen
 einer anderen Distributionen
-zu gleiche Name
+das gleiche Name
 der Distribution
-nicht Distribution
-zu Fehlinformation
+die Distribution
 die Fehlinformation
-zu Linux
-nicht Unternehmen
-zu Distributionen
-zu Einzelne ist
-des anderen bitten
+des anderen Unternehmen
 der Verbreitung
 der Bezeichnung
-zu Tat
+der Tat
 den Begriff
-nicht leitender Angestellter
+Ein leitender Angestellter
 eine kommerzielle Entscheidung
-zu Linux
-nicht war
-nicht sind
-nicht aufgeben
 der Weg
-nicht ist
-nicht Einfluss
 die Situation
 dem Punkt
-nicht Namen
+den Namen
 das Ideal
 Die verbreitete Praxis
 ein großes Problem
 des Geistes
 einem Teil
 der Nutzung
-zu laden
-ein Verkaufstaktiken
-zu vertreten
 das Helfen
 der Benutzer
 der Hilfe
-zu System
-zu Kosten
+das System
 der Freiheit
 Die Frage
-zu Großteil
+ein Großteil
 der Gemeinschaft
 der GNU
-nicht erkennt
 das Salz
 der Suppe
 der Begründung
-zu seien
-nicht würde
 den Nutzern
-nicht Freiheit
-zu würden
+die Freiheit
 die beabsichtigte Botschaft
-nicht würden
 Der Weg
-zu Verbindung
-zu ist
-zu Systemversionen
+eine Verbindung
 einem System
-im Interesse
 der Freiheit
 des Nutzers
 die Distributionen
-zu unfreie Software
-zu System
+die unfreie Software
+das System
 die Ideale
 des GNU-Projekts
 der Linux-Benutzergruppe
 die beschriebenen Probleme
 eine Änderung
 eine neue Gruppe
-zu Leute
+Die Leute
 die oberflächlicheren Ziele
 ein Recht
-nicht wird
 des GNU-Systems
 Der Zweck
 des Begriffs
-zu neue Distribution
-zu Linux
-zu würde
+Eine neue Distribution
 der Entwicklung
 einer Distribution
 die frühe Entwicklung
-zu erscheint
-nicht wäre
 die neue Distribution
-nicht Linux
 der GNU-Betriebssystemkern
 eine vorhandene GNU
 dem Namen
 eine gute Idee
 den GNU
-zum Laufen
-zu hätten
 das nachträgliche Einsicht
 eine vorhandene Version
 ein Version
 des GNU-Systems
-zu war
-nicht möchten
-nicht Hat
 das GNU-Projekt
 den Einsatz
 den frühen Tagen
-nicht Betriebssystemkern
-nicht waren
-Im Jahr
-zu Entwicklung
-zu versuchten
+die Entwicklung
 den Leuten
 den Einsatz
 den Standardfreigaben
 dem Stand
 die Änderungen
-nicht mussten
 eine Installation
 Die Leute
 die Änderungen
 der Zusammenarbeit
 dem GNU-Projekt
-zu Linux-Benutzer
+ein Linux-Benutzer
 ein Schock
 die Leute
 die GNU-Pakete
-im Allgemeinen wollten
-zu Leute
 ein System
 der erste Personenkreis
-nicht war
-zu war
-zum ersten Mal
 eine Version
 des GNU-Systems
-zu System
-zu ist
+das System
 die falsche Bezeichnung
 den Namen
-zu #wait
-nicht begannen
-zu führten
 eine öffentlichere Kampagne
-durch werden
 die GNU
 ein Programm
 ein GNU-Paket
@@ -3117,83 +2313,58 @@ des GNU-Projekts
 die GNU-Pakete
 den Entwicklern
 eines Programms
-zu GNU-Paket
+einem GNU-Paket
 ein Programm
 ein GNU-Paket
-nicht Namen
-zu GPL
+den Namen
+der GPL
 ein Programm
 der GPL
-nicht GNU-Projekt
+das GNU-Projekt
 der Betriebssystemkern
 der GNU
-nicht Teil
 des GNU-Projekts
 die Arbeit
 das GNU-Projekt
 ein GNU
-im Namen
-Im Gegensatz
 die gesamte Anerkennung
 das GNU-Betriebssystem
-nicht einzelne Programm
 Das System
-im Jahr
-bevor Linux
 Das Betriebssystem
-im Wesentlichen GNU-Betriebssystem
-nicht gleiche Betriebssystemkern
+das gleiche GNU-Betriebssystem
+das gleiche Betriebssystemkern
 das gleiche System
 eine Variante
 das GNU
 den heutigen Versionen
 des GNU
-im Mittelpunkt
-nicht Linux
-im Namen
-zu ist
 der Grund
 der Nutzung
 der damaligen Betriebssysteme
 ein freies System
-zu konnten
-nicht Teile
-davon musste
 ein Unix-kompatibles System
 der Ideen
 Der Name
-Nicht steht
 eine humorvolle Art
 der Danksagung
 einer Hackertradition
 den 70ern
 Das erste Akronym
-Nicht TECO
 Der Autor
 eine andere Implementierung
 einem langweiligen Namen
-zu dachte
 einen cleveren Namen
 den Ansatz
-zur Tradition
 ein Grund
 den Namen
 eines rekursiven Akronyms
-zu MINK
-Nicht Klever
-Nicht wollte
-nicht Verwenden
-im Namen
+das Verwenden
 eines ähnlichen Systems
-nicht %
-zu AT
+einem %
 der Grund
 der verschiedenen Versionen
 einen anderen Namen
-nicht einschloss
 die BSD-Systeme
-nicht BSD-Systeme
-nicht Geschichte
 der BSD-Systeme
 Das BSD-System
 den 80ern
@@ -3204,27 +2375,23 @@ eine Variante
 des GNU-Systems
 eine Art
 eine Variante
-Nein ist
-nicht BSD-Entwickler
-am Beispiel
+Die BSD-Entwickler
 des GNU-Projekts
-zu Quellcode
+der Quellcode
 das GNU-System
 Die BSD-Entwickler
 dem GNU-System
-hinzu würde
 ein Name
 der Situation
-nicht Zusammenhang
+Der Zusammenhang
 der Name
 eine Version
 den Betriebssystemkern
 ein komplettes System
-nicht Systemkern
+der Systemkern
 des Systems
 dem GNU
 ein GNU
-zu #othersys Sinne
 Die Dienstprogramme
 ein Teil
 der GNU-Software
@@ -3232,57 +2399,36 @@ ein Teil
 des GNU-Systems
 ein anderes Betriebssystem
 eine andere Situation
-nicht Linux
-vom GNU
-nicht PCs
-zu Geräte
-zu kleinen Plattformen
 des GNU-Systems
 das System
-zu ist
 das GNU-System
 ein Gemeinschaft
 die GNU-Softwarepakete
 eine genaue Aufstellung
 das GNU-System
 das Hinzufügen
-im Ergebnis
 einen Teil
 des GNU-Systems
 einen Teil
-nicht gibt
-zu verwendet
 der Ebene
 der Pakete
 ein wesentliches Paket
-im GNU
 Die Aufnahme
 einem wesentlichen GNU-Paket
-zu Gibt
-nicht enthalten
 ein Beispiel
 ein Fehler
-zu Fehler
+ein Fehler
 ein Linux
-zu Android
-vom GNU
 die Quellcode
 das gesamte GNU
-zu "" Android
-nicht Linux
-nicht üblichen Linux
+die üblichen Linux
 das GNU-System
-nicht enthält
 das GNU-System
 das Nichtvorhandensein
-zu GNU
-nicht Verwendung
 die gemeinte Bedeutung
-nicht wird
 Die Öffentlichkeit
-zu ist
 eine Unterhaltung
-zu Eingeweiden
+den Eingeweiden
 dem Kreislaufsystem
 die Öffentlichkeit
 die Vorstellung
@@ -3297,77 +2443,58 @@ ein Auto
 ein Fahrrad
 eine Metallkonstruktion
 den Gebrauch
-nicht Metallgegenständen
 der Leserschaft
 Die einfachste Möglichkeit
-zu ist
 die Verwendung
 das System
-nicht Linux
 das Aushängeschild
 die Wortwahl
-nicht Ziele
-nicht Ziel
 das System
-zu Wert
 die Gesellschaft
 den praktischen Vorteilen
 die Freiheit
-zur Zusammenarbeit
 die Öffentlichkeit
 den Namen
-nicht Grundsatz
 den Idealen
 der Freie-Software-Bewegung
 einem großen Publikum
 einer Linux
 dem Systemkern
-ein Software
-zu geht
-weiter weist
-zurecht vorschlagen
 die Lektionen
-zurück Gesellschaft
+die Gesellschaft
 der Entwicklung
 der Atombombe
-zu Beweggründen
 des Lernens
 ein freies Programm
-zu Systemkern
+der Systemkern
 ein wichtiger Beitrag
-nicht Grund
+der Grund
 das komplette System
 der Zukunft
-nicht Öffentlichkeit
+Die Öffentlichkeit
 das Recht
-zu sollten
 die Menschen
 das besagte Betriebssystem
 der Freiheit
-nicht Ansichten
-nicht Werk
-zu wäre
-nicht Arbeit
+das Werk
+Die Arbeit
 der Betriebssystemkern
-nicht GNU-Projekt
-zu Gesamtsystems
+dem GNU-Projekt
+das Gesamtsystems
 der Name
 einen Teil
 der Anerkennung
 der Betriebssystemkern
-an erste Versionshinweis
+Der erste Versionshinweis
 Die Linux
 dem GNU
-nicht Distribution
+der Distribution
 der GNU
 das GNU-System
 die Frage
-zu sei
 das GNU-Betriebssystem
-zu Linux
-zu wäre
 eine große Aufgabenstellung
-nicht Linux
+Das Linux
 die Aufnahme
 Die beste Lösung
 die Entwicklung
@@ -3375,193 +2502,123 @@ eines freien Ersatzes
 die BLOBs
 Der Kampf
 die Gesellschaft
-nicht nachdenken
 eine Kampagne
 der Bildung
 das System
 einem Augenblick
 der Gesellschaft
-nicht Linux
-zu kann
 das System
-zu Gesellschaft
-nicht nützt
-zu ist
+Die Gesellschaft
 das System
 die wahre Geschichte
 des Systems
 den Ursprung
 den Grund
-zu können
 die unzutreffende Bezeichnung
-nicht können
 den Begriff
 eine beträchtliche Anzahl
 die Richtigstellung
-nicht System
-zu wahren Ursprung
+das System
+den wahren Ursprung
 einer zehnminütigen Erklärung
-zu #explain
-zu ist
-nicht beste Methode
-nicht System
-zu nutzt
-nicht wird
+die beste Methode
+das System
 ein richtiges Bild
 des Ursprungs
 des Systems
 die Erklärung
 das System
-zu helfen
 ein falsches Bild
-zu ist
-zu beansprucht
-zu Linux
-zu schreiben
 der einfachste Weg
 dem GNU-Projekt
-zu Leute
-einen bittet
-das System
-zu unterwerfen
+einen System
 Das System
-zu nennen
 ein falsches Bild
 der Geschichte
 den Grund
 die Existenz
 des Systems
 die Wahrheit
-nicht nehmen
 das Risiko
 einer Bitte
-zu nützliche Resultate
 dem GNU-Projekt
 das Risiko
 des unverdienten Missbrauchs
-ein Ziele
-zu unfaire Situation
-nicht Erzählen
+eine unfaire Situation
 den Lachenden
 die tatsächliche Geschichte
 die Bitte
-zu missbilligen
 das System
-zu Verliert
-nicht verscherzt
-Nicht Leute
 der Systementwickelung
-nicht wissen
-zu beschäftigen
-nicht verwandten Gründen
-nicht baten
 die Hilfe
-zu beibringen
-zu hat
 ein schwerwiegendes Problem
-zu Leute
-zu bewahren
+die Leute
 die falsche Bezeichnung
 das Betriebssystem
-um haben
-im Jahr
 Die Leute
-nicht Ist
-nicht Menschen
-zu System
-zu #force
-zu versuchen
-nicht nennen
 das System
-zu werden
-nicht Gesamtsystem
-zur Klageerhebung
+das System
+das Gesamtsystem
 die Redefreiheit
-nicht wollen
 das System
-zu ist
 das Richtige
-zu ist
-nicht GNU
-zu System
-zu #require
+die GNU
+das System
 Der Zweck
 der GNU
 die Freiheit
 der Nutzer
-zu proprietäre Versionen
+die proprietäre Versionen
 das System
 die Freiheit
 des Nutzers
 dem GNU
 der bloße Akt
 das System
-zu spricht
 den Nutzern
-nicht Freiheit
-ab Namen
 das System
 eine Beschränkung
 der GPL
-zu ablehnenden Einwände
-die Werbeerfordernis
+der ablehnenden Werbeerfordernis
 der ursprünglichen BSD-Lizenz
 den Namen
 der University
-zu ist
-nicht Verdienst
+den Verdienst
 des Projekts
 den Namen
 einer Lizenz
-nicht bitten
 den Verdienst
 der Klarheit
-nicht Begriff
+den Begriff
 die GNU
-zu System
+das System
 Die Frage
 eine umstrittene Prämisse
-voraus zwingt
-einen sind
-einen mögen
-nicht sind
-nicht glauben
-nicht großen Anzahl
+einen anderen Worten
+einer großen Anzahl
 die Irre
 ein freies Betriebssystem
 die Überzeugung
 der Menschen
-zu proprietäre Software
-nicht #somanyright
-nicht Popularität
+die Popularität
 eines Fehlers
-zur Wahrheit
-nicht System
+das System
 den Namen
-zu Nutzer
+die Nutzer
 das Wort
 eine Weile
-nicht Thesen
-nicht Unterstützung
 einen anderen Weg
-zu ist
 eine amoralische Einstellung
-zum Leben
 ein Beispiel
 einen großen Gewinn
-zu werden
 die Rolle
-im Bildungsbereich
 eine grundlegende Rolle
 die einzige Software
-zu Menschliches Wissen
-zu Schülerinnen
-zu Quellcode
+Der Quellcode
 die Methoden
-Im Gegensatz
 das Gegenteil
 der Aufgabe
-nicht technische Frage
+eine technische Frage
 eine Frage
 der Menschenrechte
 Das GNU-System
@@ -3569,17 +2626,16 @@ das Prinzip
 des Teilens
 den menschlichen Fortschritt
 eine betriebssystemunabhängige Lernsoftware
-im Alter
 des GNU-Projekts
 die Erkennung
 die Bedienung
 das Lesen
 der Uhrzeit
 einer analogen Uhr
-zu Programm
+Das Programm
 eine einfache Textverarbeitung
-zu weiteres Merkmal
-zu Kommunikation
+Ein weiteres Merkmal
+die Kommunikation
 der Kinder
 einer gelben Symbolleiste
 der linken Bildschirmseite
@@ -3588,7 +2644,6 @@ das Programm
 Eine Gestaltung
 das Programm
 Das Programm
-im Freie-Software-Verzeichnis
 der FSF
 dem offiziellen Webauftritt
 Ein Beispiel
@@ -3597,59 +2652,45 @@ des Programms
 das Insight-Projekt
 Das Projekt
 die Vorteile
-im Land
 ein mächtiges Hilfsmittel
 die kommunikativen Fähigkeiten
 der behinderten Menschen
-zu Projekt
+Das Projekt
 das Programm
 den besonderen Bedürfnissen
-an Insight-Team
+Das Insight-Team
 ein Ausbildungsmodul
 einer Anleitung
-beim Arbeiten
 die Verbesserung
 der kindlichen Aufmerksamkeitsspanne
 Das Modul
-zur Grundschule
-an kleines Handbuch
+Ein kleines Handbuch
 die Nutzung
 der Software
-zu Fertigkeiten
+die Fertigkeiten
 der Kinder
-zu GCompris
-zu Beziehung
-zu Grundrechenarten
-zu analytisches Denken
-zu kommunikative Fähigkeiten
-zu Lehrer
+die Beziehung
 Das Programm
 eine hervorragende Quelle
 einer wichtigen Ressource
-zur Beschleunigung
 des kindlichen Lernprozesses
-im Zusammenhang
 die einzige Möglichkeit
 den Umgang
-zu Schulzeit
+die Schulzeit
 der Schule
 die Rechner
 eine begrenzte Zeit
-zu Umfeld
 das Programm
 die benötigten Fähigkeiten
 einen Rechner
-zu Ergebnisse
 die grundlegenden Freiheiten
 der Nutzer
 den Insight-Entwicklern
 die Software
 die Bedürfnisse
 der Kinder
-zu innovative Programmnutzung
-zu Insight-Team
-frei modifizierte Kopien
-zu Programm
-zu Modifizierte Versionen
+eine innovative Programmnutzung
+Dem Insight-Team
+das Programm
 der Verbesserung
 des akademischen Talents
